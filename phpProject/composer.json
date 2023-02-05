@@ -1,0 +1,12 @@
+{
+  "autoload":{
+      "classmap": ["./Models"],
+      "files":["config.php","session.php"]
+  },
+  "require": {
+    "chillerlan/php-qrcode": "^4.3",
+    "aws/aws-sdk-php": "^3.258",
+    "pragmarx/google2fa": "^8.0",
+    "bacon/bacon-qr-code": "^2.0"
+  }
+}

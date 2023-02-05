@@ -1,0 +1,14 @@
+
+
+
+these i tried in json file it won't working
+
+"name": "aws/aws-sdk-php","chillerlan/php-qrcode": "dev-main",
+"description": "it help us to download files from aws ",
+"require": {
+    "php": ">=7.4|| ^8.0",
+    "another-vendor/package": "1.*"
+
+      
+    }
+
